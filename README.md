@@ -29,10 +29,20 @@ Snake game written in C using the curses library.
 - [x] A new Trophy is moved to a random location in the Snake Pit if the Trophy has expired, or was eated by the snake
 - [x] Trophies cannot spawn inside the Snake 
 
-## Gameplay:
+### Gameplay:
 The Snake dies and the game ends if:
 - [x] The Snake runs into the border; or
 - [x] The Snake runs into itself; or
 - [x] The Player attempts to reverse the Snake's direction
 The Snake wins if:
 - [x] The Snake's length is greater than or equal to half of the perimeter of the Snake Pit
+
+## Score:
+- [x] The Player's score is equal to the sum of all the Trophies and Snake eats
+- [x] When the game ends, if a new high score has been achieved, it will be stored in highscore.txt
+- [x] When the game opens, the high score will be pulled from highscore.txt
+
+## Replaying the Game:
+- [x] When the Snake dies, the Player will be prompted to play again
+- [x] If the Player would like to play again, press the 'Y' key and the game will reset
+- [x] If the Player would not like to play again, press the 'N' key and the game will exit to the terminal 
