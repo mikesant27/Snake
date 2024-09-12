@@ -22,3 +22,11 @@ Snake game written in C using the curses library.
 - [x] A Trophy expired after a random interval of 1 to 9 seconds
 - [x] A new Trophy is moved to a random location in the Snake Pit if the Trophy has expired, or was eated by the snake
 - [x] Trophies cannot spawn inside the Snake 
+
+## Gameplay:
+The Snake dies and the game ends if:
+- [x] The Snake runs into the border; or
+- [x] The Snake runs into itself; or
+- [x] The Player attempts to reverse the Snake's direction
+The Snake wins if:
+- [x] The Snake's length is greater than or equal to half of the perimeter of the Snake Pit
