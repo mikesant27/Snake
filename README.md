@@ -2,6 +2,12 @@
 ## Description:
 Snake game written in C using the curses library.
 
+## Controls
+- [x] Left Arrow - Turn Snake Left
+- [x] Right Arrow - Turn Snake Right
+- [x] Up Arrow - Turn Snake Up
+- [x] Down Arrow - Turn Snake Down
+
 ## Project Requirements:
 
 ### The Snake:
