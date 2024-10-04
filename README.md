@@ -21,7 +21,7 @@ Snake game written in C using the curses library.
 - [x] The Snake Pit utilizes all available space of the terminal window
 - [x] The Snake Pit has a visible border  
 
-### The Trophies / Fruit
+### The Trophies / Fruit:
 - [x] Trophies are represented by a digit randomly chosen from 1 to 9
 - [x] When the Snake eats a Trophy, its length is increased by the corresponding value of the Trophy
 - [x] There is always exactly one Trophy in the Snake Pit at a given moment
