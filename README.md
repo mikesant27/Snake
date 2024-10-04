@@ -26,7 +26,7 @@ Snake game written in C using the curses library.
 - [x] When the Snake eats a Trophy, its length is increased by the corresponding value of the Trophy
 - [x] There is always exactly one Trophy in the Snake Pit at a given moment
 - [x] A Trophy expired after a random interval of 1 to 9 seconds
-- [x] A new Trophy is moved to a random location in the Snake Pit if the Trophy has expired, or was eated by the snake
+- [x] A new Trophy is moved to a random location in the Snake Pit if the Trophy has expired, or was eaten by the snake
 - [x] Trophies cannot spawn inside the Snake 
 
 ### Gameplay:
