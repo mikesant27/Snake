@@ -33,7 +33,7 @@ Snake game written in C using the curses library.
 The Snake dies and the game ends if:
 - [x] The Snake runs into the border; or
 - [x] The Snake runs into itself; or
-- [x] The Player attempts to reverse the Snake's direction
+- [x] The Player attempts to reverse the Snake's direction <br/>
 The Snake wins if:
 - [x] The Snake's length is greater than or equal to half of the perimeter of the Snake Pit
 
